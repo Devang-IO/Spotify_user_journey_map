@@ -36,7 +36,7 @@ A horizontal timeline chart displays the emotional journey with emoji labels per
 
 ```
 📂 assets/
-├── user_journey_map.png
+├── Spotify_user_journey_map.png
 ├──📄 Spotify_User_Persona.pdf
 ├──📄 Spotify_Research_Summary.pdf
 ├──📄 Spotify_Problem_Statement.pdf
